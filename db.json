@@ -1,0 +1,10 @@
+{
+    "some": {
+        "code": "200",
+        "Success": true,
+        "go": {
+            "page": "",
+            "setting": false
+        }
+    }
+}
